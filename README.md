@@ -6,6 +6,8 @@
 
 [406 Not Acceptable](406.html)
 
+[410 Gone](410.html)
+
 [451 Unavailable For Legal Reasons](451.html)
 
 [500 Internal Server Error](500.html)
