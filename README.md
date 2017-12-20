@@ -32,7 +32,7 @@ It is simple, take a [HTTP status code](https://de.wikipedia.org/wiki/HTTP-Statu
 
 If you could label the combination with [WITZIG](https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-witzig-nicht-witzig-holzstempel-6400101.html), it is perfect for this collection.
 
-Make a pull request, copy the template, put your qoute inside and don't forget to add the link to the readme.
+Make a pull request, copy the [template](https://github.com/quantenProjects/PoliticalHTTPerrors/blob/master/template.html), put your qoute inside and don't forget to add the link to the readme.
 
 ## Contact
 
