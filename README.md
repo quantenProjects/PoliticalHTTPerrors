@@ -16,4 +16,24 @@
 
 [511 Network Authentication Required](511.html)
 
-## Make PRs with your ideas!
+## What, Why?
+
+404 is famous, but there are many other HTTP status codes. Let us make them famous with quotes from german politicians
+
+There are other great quotes like this one out there:
+
+## 410 - Gone
+
+"Denn eins ist sicher: Die Rente." - Norbert Sebastian Blüm
+
+## Contributing
+
+It is simple, take a [HTTP status code](https://de.wikipedia.org/wiki/HTTP-Statuscode) and combine it with a quote out of german politics. (at best with a source mentioned in the PR)
+
+If you could label the combination with [WITZIG](https://marcuwekling.reimkultur-shop.de/marc-uwe-kling-witzig-nicht-witzig-holzstempel-6400101.html), it is perfect for this collection.
+
+Make a pull request, copy the template, put your qoute inside and don't forget to add the link to the readme.
+
+## Contact
+
+[@PoliticalHTTPerrors](https://twitter.com/PoliticalHTTP)
